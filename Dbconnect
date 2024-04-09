@@ -1,0 +1,10 @@
+DBconnect.java
+mkdir git-code
+#cd git-code
+#git init : Create a local Git empty repository.
+Initialized empty Git repository in /Users/Muyiwa Ayinla/git/git-code/.git/
+#git status : Gives the status of your untracked files.
+#touch DBConnect.java
+#git status
+#vim DBConnect.java
+#git add DBConnect.java: Add the files(here DBConnect.java) into your staging area. #git status
