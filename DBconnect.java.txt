@@ -1,1 +1,2 @@
-DBconnect.java file for my git commit
+DBconnect.java file for my git commit 
+my new commit
